@@ -124,3 +124,4 @@ class Biblioteca:
         print("\nLista de Usuarios Registrados:")
         for usuario in self.usuarios:
             print(f"- {usuario.nombre}, DNI: {usuario.dni}")
+# HU01: Búsqueda de socio por DNI
