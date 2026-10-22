@@ -1,3 +1,4 @@
+# Modulo de biblioteca - registro de prestamos
 # Clase Biblioteca
 from clases.libros import Libro
 from clases.prestamos import Prestamo
