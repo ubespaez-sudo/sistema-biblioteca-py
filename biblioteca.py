@@ -124,3 +124,4 @@ class Biblioteca:
         print("\nLista de Usuarios Registrados:")
         for usuario in self.usuarios:
             print(f"- {usuario.nombre}, DNI: {usuario.dni}")
+# HU10: Guardado y carga de datos en JSON
