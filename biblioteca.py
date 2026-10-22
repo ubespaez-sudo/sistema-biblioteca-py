@@ -124,3 +124,4 @@ class Biblioteca:
         print("\nLista de Usuarios Registrados:")
         for usuario in self.usuarios:
             print(f"- {usuario.nombre}, DNI: {usuario.dni}")
+# HU02: Validación de DNI de 8 dígitos y sin duplicados
