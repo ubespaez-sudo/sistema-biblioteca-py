@@ -1,3 +1,4 @@
+# Modulo de biblioteca - busqueda de libros
 # Clase Biblioteca
 from clases.libros import Libro
 from clases.prestamos import Prestamo
