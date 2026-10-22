@@ -124,3 +124,4 @@ class Biblioteca:
         print("\nLista de Usuarios Registrados:")
         for usuario in self.usuarios:
             print(f"- {usuario.nombre}, DNI: {usuario.dni}")
+# HU03: Alta de libros con id único y estado disponible
