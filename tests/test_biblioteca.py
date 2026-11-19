@@ -22,3 +22,5 @@ class TestSistemaBiblioteca(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# Prueba de pipeline - Gabriela Gonzales
